@@ -11,6 +11,7 @@
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="javascript" src="https://img.shields.io/badge/-javascript-ECD53E?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-6b3b9c?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-linux-e0a731?style=flat-square&logo=linux&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
