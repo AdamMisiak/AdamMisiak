@@ -9,6 +9,7 @@
   <img alt="Flask" src="https://img.shields.io/badge/Flask-838485?style=flat-square&logo=flask&logoColor=white" /> 
   <img alt="Celery" src="https://img.shields.io/badge/Celery-79BF48?style=flat-square&logo=celery&logoColor=white" /> 
   <img alt="Postgresql" src="https://img.shields.io/badge/-Postgresql-247a9c?style=flat-square&logo=Postgresql&logoColor=white" />
+  <img alt="Elasticsearch" src="https://img.shields.io/badge/-Elasticsearch-28C6AA?style=flat-square&logo=Elasticsearch&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Css3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
