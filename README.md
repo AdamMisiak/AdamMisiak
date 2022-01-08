@@ -6,7 +6,6 @@
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/-Python-2285b3?style=flat-square&logo=python&logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/Django-135428?style=flat-square&logo=django&logoColor=white" /> 
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-838485?style=flat-square&logo=flask&logoColor=white" /> 
   <img alt="Celery" src="https://img.shields.io/badge/Celery-79BF48?style=flat-square&logo=celery&logoColor=white" /> 
   <img alt="Postgresql" src="https://img.shields.io/badge/-Postgresql-247a9c?style=flat-square&logo=Postgresql&logoColor=white" />
   <img alt="Elasticsearch" src="https://img.shields.io/badge/-Elasticsearch-28C6AA?style=flat-square&logo=Elasticsearch&logoColor=white" />
@@ -18,6 +17,7 @@
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-6b3b9c?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-e0a731?style=flat-square&logo=Linux&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-e89235?style=flat-square&logo=Jupyter&logoColor=white" />
 </p>
