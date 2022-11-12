@@ -20,6 +20,7 @@
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img alt="GitlabCI" src="https://img.shields.io/badge/GitlabCI-FC6D26?style=flat-square&logo=GitHub-Actions&logoColor=white" />
 </p>
 
 
