@@ -1,7 +1,5 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">Hi, I'm Adam</h1>
 
-![](https://visitor-badge.glitch.me/badge?page_id=AdamMisiak.AdamMisiak)
-
 <h3>Things I code with:</h3>
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
