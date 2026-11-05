@@ -1,54 +1,71 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-  <img alt="Hey, I'm Adam. Python, products and side quests." src="assets/hero-light.svg" width="100%">
-</picture>
+<h1 align="center">Hey, I'm Adam 👋</h1>
 
-I build Python apps, automate things and occasionally convince AI agents to do something useful.
-
-> Sometimes my commits don't mess up the whole application.
-
-### Usually working with
-
-| Build | Ship | Automate |
-| :--- | :--- | :--- |
-| `Python` `FastAPI` `Django` | `AWS` `GCP` `Kubernetes` | `LangChain` `RAG` `n8n` |
-| `PostgreSQL` `Redis` | `Terraform` `Argo CD` `Flux CD` | `AI agents` `Pydantic AI` |
-
-<details>
-<summary><strong>＋ Open the rest of the toolbox</strong></summary>
+<p align="center">
+  Building my own products with Python, cloud infrastructure and AI.
+</p>
 
 <br>
 
-| Area | Tools |
-| :--- | :--- |
-| Background jobs & APIs | Celery · REST · Pydantic |
-| Containers & delivery | Docker · Helm · Kustomize · GitHub Actions · GitLab CI |
-| Observability | Prometheus · Grafana · Langfuse |
-| Frontend for side projects | React · TypeScript · Tailwind CSS |
-| Testing | pytest · Playwright |
+<h3 align="center">Currently building</h3>
 
-</details>
-
-<details>
-<summary><strong>＋ What's keeping me curious</strong></summary>
+<table align="center">
+  <tr>
+    <td align="center" width="340">
+      <h3><a href="https://qesto.app/">💸 Qesto ↗</a></h3>
+      <p>Personal finance</p>
+    </td>
+    <td align="center" width="340">
+      <h3><a href="https://2homerent.pl/pl/">🏡 Propero ↗</a></h3>
+      <p>Direct booking</p>
+    </td>
+  </tr>
+</table>
 
 <br>
 
-**Agents & retrieval** — connecting models to useful tools, APIs and the right context.
+<h3 align="center">Things I build with</h3>
 
-**Self-hosting & automation** — running my own apps and removing repetitive work.
+<p align="center">
+  <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40"></a>&nbsp;
+  <a href="https://fastapi.tiangolo.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" width="40" height="40"></a>&nbsp;
+  <a href="https://react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" title="React" width="40" height="40"></a>&nbsp;
+  <a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40"></a>&nbsp;
+  <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="40" height="40"></a>&nbsp;
+  <a href="https://kubernetes.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" title="Kubernetes" width="40" height="40"></a>&nbsp;
+  <a href="https://developer.hashicorp.com/terraform"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" alt="Terraform" title="Terraform" width="40" height="40"></a>&nbsp;
+  <a href="https://argo-cd.readthedocs.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" alt="Argo CD" title="Argo CD" width="40" height="40"></a>&nbsp;
+  <a href="https://cloud.google.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" title="Google Cloud" width="40" height="40"></a>&nbsp;
+  <a href="https://n8n.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/n8n/n8n-original.svg" alt="n8n" title="n8n" width="40" height="40"></a>&nbsp;
+</p>
 
-**Building products** — taking an idea through the backend, UI and deployment.
+<p align="center"><sub>AI agents · RAG · LangChain</sub></p>
+
+<br>
+
+<details>
+<summary><strong>A little GitHub activity</strong></summary>
+
+<br>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdamMisiak&amp;theme=github_dark">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdamMisiak&amp;theme=github" alt="Adam's GitHub statistics" width="340">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdamMisiak&amp;theme=github_dark">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdamMisiak&amp;theme=github" alt="Languages across Adam's public repositories" width="340">
+  </picture>
+</p>
 
 </details>
 
 <br>
 
 <p align="center">
-  <a href="https://github.com/AdamMisiak?tab=repositories">Browse the code</a>
-  &nbsp; / &nbsp;
-  <a href="https://github.com/AdamMisiak?tab=stars">Things I find interesting</a>
-  &nbsp; / &nbsp;
+  <a href="https://github.com/AdamMisiak?tab=repositories">Code</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/AdamMisiak?tab=stars">Discoveries</a>
+  &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/adammisiak/">Elsewhere</a>
 </p>
