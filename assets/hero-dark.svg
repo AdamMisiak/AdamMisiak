@@ -1,18 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" role="img" aria-labelledby="t">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-labelledby="t">
 <title id="t">Hey, I'm Adam. Building products with Python, cloud and AI.</title>
 <defs>
-<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a0c14"/><stop offset="1" stop-color="#15121f"/></linearGradient>
-<linearGradient id="glass" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".14"/><stop offset="1" stop-color="#fff" stop-opacity=".05"/></linearGradient>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b0b0d"/><stop offset="1" stop-color="#111114"/></linearGradient>
+<linearGradient id="glass" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity="0.1"/><stop offset="1" stop-color="#fff" stop-opacity="0.04"/></linearGradient>
+<linearGradient id="pill" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity="0.14"/><stop offset="1" stop-color="#fff" stop-opacity="0.06"/></linearGradient>
 <filter id="b" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="38"/></filter>
-<clipPath id="c"><rect width="1000" height="280" rx="32"/></clipPath>
+<clipPath id="c"><rect width="1000" height="260" rx="32"/></clipPath>
 </defs>
 <g clip-path="url(#c)">
-<rect width="1000" height="280" fill="url(#bg)"/>
-<circle cx="170" cy="60" r="110" fill="#3b6cff" opacity=".55" filter="url(#b)"/>
-<circle cx="820" cy="220" r="120" fill="#8b3dff" opacity=".5" filter="url(#b)"/>
-<circle cx="640" cy="40" r="80" fill="#ff4f8b" opacity=".3" filter="url(#b)"/>
+<rect width="1000" height="260" fill="url(#bg)"/>
+<circle cx="150" cy="52" r="117" fill="#3b4a68" opacity="0.5" filter="url(#b)"/>
+<circle cx="850" cy="221" r="130" fill="#2d2a40" opacity="0.45" filter="url(#b)"/>
 </g>
-<rect x="60" y="48" width="880" height="184" rx="28" fill="url(#glass)" stroke="#fff" stroke-opacity=".18" stroke-width="1.5"/>
-<text x="500" y="135" text-anchor="middle" font-family="-apple-system,'SF Pro Display','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="54" font-weight="600" letter-spacing="-1.5" fill="#f5f5f7">Hey, I'm Adam</text>
-<text x="500" y="182" text-anchor="middle" font-family="-apple-system,'SF Pro Text','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" fill="#a1a1a6">Building products with Python, cloud and AI.</text>
+<rect x="60" y="40" width="880" height="180" rx="28" fill="url(#glass)" stroke="#ffffff" stroke-opacity="0.14" stroke-width="1.5"/>
+<text x="500" y="125" text-anchor="middle" font-family="-apple-system,'SF Pro Display','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="54" font-weight="600" letter-spacing="-1.5" fill="#f5f5f7">Hey, I'm Adam</text>
+<text x="500" y="172" text-anchor="middle" font-family="-apple-system,'SF Pro Text','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" fill="#a1a1a6">Building products with Python, cloud and AI.</text>
 </svg>
